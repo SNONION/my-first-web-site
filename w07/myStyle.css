@@ -46,7 +46,7 @@ h1 {
     grid-template-columns: 150px 1fr;
 }
 
-@media(max-width: 780px){
+@media(max-width: 800px){
     #grid {
         display: block;
     }
@@ -55,7 +55,7 @@ h1 {
     }
 }
 
-@media(max-width: 320px){
+@media(max-width: 500px){
     #grid {
         display: block;
     }
